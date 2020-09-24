@@ -1,0 +1,694 @@
+
+【软件版本】9.74【软件版本】
+
+【公告日期】8.16【公告日期】
+
+【更新说明】更新内容
+
+全方面优化不发烫
+
+支持免root虚拟机
+
+修复软件错误各种bug
+
+修复点绘制卡屏现象
+
+修复上帝和极限百分百开启成功
+
+【更新说明】
+
+【加群】关【加群】
+
+【公告标题】使用说明【公告标题】
+
+
+
+【000】37814712
+
+19884860
+
+40
+
+164
+
+8
+
+164
+
+8
+
+48
+
+72
+
+36
+
+24
+
+216
+
+248
+
+312
+
+128
+
+40
+
+184
+
+248
+
+1092【000】
+
+【111】42935696
+
+109546156
+
+80
+
+56
+
+8
+
+164
+
+8
+
+48
+
+72
+
+44
+
+32
+
+224
+
+248
+
+320
+
+128
+
+40
+
+192
+
+248
+
+1092【111】
+
+【公告内容】低调使用谢谢。【公告内容】
+
+
+
+【root服务器】开【root服务器】
+
+【免root服务器】开【免root服务器】
+
+【封号内容】大部分封号封几天的不是三个月的都是残留问题。
+
+这时候我们只需要使用Sd进行王者卸载然后清残留即可奔放【封号内容】
+
+【封号标题】关于残留问题【封号标题】
+
+【防封失败公告】检测你非正常运行【防封失败公告】
+
+【防封失败内容】非正常运行，你可以手动检测  正常运行则打不开网页，不正常则打得开网页。【防封失败内容】
+
+【强行关闭】rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/
+
+rm -rf filedir /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/GameJoyRecorder/logs/
+
+chmod 777 /etc/hosts
+
+echo "0.0.0.0       localhost 
+
+0.0.0.0  cs.mbgame.gamesafe.qq.com
+
+0.0.0.0  ipv6.mainconn.gamesafe.qq.com
+
+0.0.0.0  cs.mbgame.anticheatexpert.com
+
+0.0.0.0  cs.mainconn.gamesafe.qq.com
+
+0.0.0.0  cschannel.anticheatexpert.com
+
+::1             ip6-localhost" > /etc/hosts
+
+iptables -I OUTPUT -d 182.254.116.117 -j DROP
+
+iptables -I INPUT -s 182.254.116.117 -j DROP
+
+iptables -I OUTPUT -d 49.51.190.53 -j DROP
+
+iptables -I INPUT -s 49.51.190.53 -j DROP
+
+iptables -I OUTPUT -d 121.51.80.233 -j DROP
+
+iptables -I INPUT -s 121.51.80.233 -j DROP
+
+iptables -I OUTPUT -d 49.51.190.95 -j DROP
+
+
+
+iptables -I INPUT -s 49.51.190.95 -j DROP
+
+iptables -I OUTPUT -d 49.51.177.246 -j DROP
+
+iptables -I INPUT -s 49.51.177.246 -j DROP
+
+iptables -I OUTPUT -d 0.0.0.1 -j DROP
+
+iptables -I INPUT -s 0.0.0.1 -j DROP
+
+iptables -I OUTPUT -d 153.3.50.229 -j DROP
+
+iptables -I INPUT -s 153.3.50.229 -j DROP
+
+iptables -I OUTPUT -d 153.3.150.78 -j DROP
+
+iptables -I INPUT -s 153.3.150.78 -j DROP
+
+iptables -I OUTPUT -d 153.3.50.249 -j DROP
+
+iptables -I INPUT -s 153.3.50.249 -j DROP
+
+iptables -I OUTPUT -d 129.226.102.235 -j DROP
+
+iptables -I INPUT -s 129.226.102.235 -j DROP
+
+iptables -I OUTPUT -d 153.3.50.11 -j DROP
+
+iptables -I INPUT -s 153.3.50.11 -j DROP
+
+iptables -I OUTPUT -d 153.37.101.66 -j DROP
+
+iptables -I INPUT -s 153.37.101.66 -j DROP
+
+iptables -I OUTPUT -d 153.3.149.19 -j DROP
+
+iptables -I INPUT -s 153.3.149.19 -j DROP
+
+iptables -I OUTPUT -d 153.37.101.56 -j DROP
+
+iptables -I INPUT -s 153.37.101.56 -j DROP
+
+iptables -I OUTPUT -d 153.37.101.103 -j DROP
+
+iptables -I INPUT -s 153.37.101.103 -j DROP
+
+iptables -I OUTPUT -d 129.226.103.85 -j DROP
+
+iptables -I INPUT -s 129.226.103.85 -j DROP
+
+iptables -I OUTPUT -d 129.226.103.93 -j DROP
+
+iptables -I INPUT -s 129.226.103.93 -j DROP
+
+iptables -I OUTPUT -d 153.3.150.213 -j DROP
+
+iptables -I INPUT -s 153.3.150.213 -j DROP
+
+iptables -I OUTPUT -d 129.226.102.136 -j DROP
+
+iptables -I INPUT -s 129.226.102.136 -j DROP
+
+iptables -I OUTPUT -d 129.226.102.164 -j DROP
+
+iptables -I INPUT -s 129.226.102.164 -j DROP
+
+iptables -I OUTPUT -d 153.3.50.60 -j DROP
+
+iptables -I INPUT -s 153.3.50.60 -j DROP
+
+iptables -I OUTPUT -d 129.226.103.182 -j DROP
+
+iptables -I INPUT -s 129.226.103.182 -j DROP
+
+iptables -I OUTPUT -d 129.226.103.18 -j DROP
+
+iptables -I INPUT -s 129.226.103.18 -j DROP
+
+iptables -I OUTPUT -d 129.226.102.185 -j DROP
+
+iptables -I INPUT -s 129.226.102.185 -j DROP
+
+iptables -I OUTPUT -d 129.226.102.230 -j DROP
+
+iptables -I INPUT -s 129.226.102.230 -j DROP
+
+iptables -I OUTPUT -d 49.51.190.76 -j DROP
+
+iptables -I INPUT -s 49.51.190.76 -j DROP
+
+iptables -I OUTPUT -d 129.226.102.111 -j DROP
+
+iptables -I INPUT -s 129.226.102.111 -j DROP
+
+iptables -I OUTPUT -d 49.51.181.100 -j DROP
+
+iptables -I INPUT -s 49.51.181.100 -j DROP
+
+iptables -I OUTPUT -d 49.51.67.163 -j DROP
+
+iptables -I INPUT -s 49.51.67.163 -j DROP
+
+iptables -I OUTPUT -d 49.51.185.128 -j DROP
+
+iptables -I INPUT -s 49.51.185.128 -j DROP
+
+iptables -I OUTPUT -d 49.51.190.73 -j DROP
+
+iptables -I INPUT -s 49.51.190.73 -j DROP
+
+iptables -I OUTPUT -d 49.51.185.85 -j DROP
+
+iptables -I INPUT -s 49.51.185.85 -j DROP
+
+iptables -I OUTPUT -d 203.205.235.108 -j DROP
+
+iptables -I INPUT -s 203.205.235.108 -j DROP
+
+iptables -I OUTPUT -d 49.51.67.92 -j DROP
+
+iptables -I INPUT -s 49.51.67.92 -j DROP
+
+iptables -I OUTPUT -d 183.194.234.13 -j DROP
+
+iptables -I INPUT -s 183.194.234.13 -j DROP
+
+iptables -I OUTPUT -d 203.205.179.145 -j DROP
+
+iptables -I INPUT -s 203.205.179.145 -j DROP
+
+iptables -I OUTPUT -d 101.91.69.223 -j DROP
+
+iptables -I INPUT -s 101.91.69.223 -j DROP
+
+iptables -I OUTPUT -d 116.128.160.12 -j DROP
+
+iptables -I INPUT -s 116.128.160.12 -j DROP
+
+iptables -I OUTPUT -d 140.207.69.43 -j DROP
+
+iptables -I INPUT -s 140.207.69.43 -j DROP
+
+iptables -I OUTPUT -d 117.135.169.46 -j DROP
+
+iptables -I INPUT -s 117.135.169.46 -j DROP
+
+iptables -I OUTPUT -d 101.226.49.42 -j DROP
+
+iptables -I INPUT -s 101.226.49.42 -j DROP
+
+iptables -I OUTPUT -d 182.254.10.42 -j DROP
+
+iptables -I INPUT -s 182.254.10.42 -j DROP
+
+iptables -I OUTPUT -d 203.205.128.159 -j DROP
+
+iptables -I INPUT -s 203.205.128.159 -j DROP
+
+iptables -I OUTPUT -d 101.226.103.110 -j DROP
+
+iptables -I INPUT -s 101.226.103.110 -j DROP
+
+iptables -I OUTPUT -d 221.238.41.116 -j DROP
+
+iptables -I INPUT -s 221.238.41.116 -j DROP
+
+iptables -I OUTPUT -d 119.45.70.196 -j DROP
+
+iptables -I INPUT -s 119.45.70.196 -j DROP
+
+iptables -I OUTPUT -d 114.221.149.94 -j DROP
+
+iptables -I INPUT -s 114.221.149.94 -j DROP
+
+iptables -I OUTPUT -d 119.45.69.68 -j DROP
+
+iptables -I INPUT -s 119.45.69.68 -j DROP
+
+iptables -I OUTPUT -d 112.53.1.194 -j DROP
+
+iptables -I INPUT -s 112.53.1.194 -j DROP
+
+iptables -I OUTPUT -d 221.198.70.162 -j DROP
+
+iptables -I INPUT -s 221.198.70.162 -j DROP
+
+iptables -I OUTPUT -d 180.109.156.92 -j DROP
+
+iptables -I INPUT -s 180.109.156.92 -j DROP
+
+iptables -I OUTPUT -d 114.221.149.35 -j DROP
+
+iptables -I INPUT -s 114.221.149.35 -j DROP
+
+iptables -I OUTPUT -d 221.198.70.252 -j DROP
+
+iptables -I INPUT -s 221.198.70.252 -j DROP
+
+iptables -I OUTPUT -d 119.45.69.27 -j DROP
+
+iptables -I INPUT -s 119.45.69.27 -j DROP
+
+iptables -I OUTPUT -d 36.155.245.94 -j DROP
+
+iptables -I INPUT -s 36.155.245.94 -j DROP
+
+iptables -I OUTPUT -d 180.109.156.49 -j DROP
+
+iptables -I INPUT -s 180.109.156.49 -j DROP
+
+iptables -I OUTPUT -d 114.221.149.47 -j DROP
+
+iptables -I INPUT -s 114.221.149.47 -j DROP
+
+iptables -I OUTPUT -d 112.53.1.228 -j DROP
+
+iptables -I INPUT -s 112.53.1.228 -j DROP
+
+iptables -I OUTPUT -d 119.45.69.22 -j DROP
+
+iptables -I INPUT -s 119.45.69.22 -j DROP
+
+iptables -I OUTPUT -d 221.238.41.36 -j DROP
+
+iptables -I INPUT -s 221.238.41.36 -j DROP
+
+iptables -I OUTPUT -d 36.155.245.208 -j DROP
+
+iptables -I INPUT -s 36.155.245.208 -j DROP
+
+iptables -I OUTPUT -d 119.45.68.80 -j DROP
+
+iptables -I INPUT -s 119.45.68.80 -j DROP
+
+iptables -I OUTPUT -d 36.155.245.161 -j DROP
+
+iptables -I INPUT -s 36.155.245.161 -j DROP
+
+iptables -I OUTPUT -d 180.109.156.105 -j DROP
+
+iptables -I INPUT -s 180.109.156.105 -j DROP
+
+iptables -I OUTPUT -d 114.221.149.235 -j DROP
+
+iptables -I INPUT -s 114.221.149.235 -j DROP
+
+iptables -I OUTPUT -d 112.53.1.152 -j DROP
+
+iptables -I INPUT -s 112.53.1.152 -j DROP
+
+iptables -I OUTPUT -d 119.45.68.31 -j DROP
+
+iptables -I INPUT -s 119.45.68.31 -j DROP
+
+iptables -I OUTPUT -d 36.155.245.57 -j DROP
+
+iptables -I INPUT -s 36.155.245.57 -j DROP
+
+iptables -I OUTPUT -d 36.155.245.152 -j DROP
+
+iptables -I INPUT -s 36.155.245.152 -j DROP
+
+iptables -I OUTPUT -d 36.155.240.19 -j DROP
+
+iptables -I INPUT -s 36.155.240.19 -j DROP
+
+iptables -I OUTPUT -d 42.81.170.35 -j DROP
+
+iptables -I INPUT -s 42.81.170.35 -j DROP
+
+iptables -I OUTPUT -d 119.45.68.33 -j DROP
+
+iptables -I INPUT -s 119.45.68.33 -j DROP
+
+iptables -I OUTPUT -d 36.155.240.35 -j DROP
+
+iptables -I INPUT -s 36.155.240.35 -j DROP
+
+iptables -I OUTPUT -d 221.238.41.103 -j DROP
+
+iptables -I INPUT -s 221.238.41.103 -j DROP
+
+iptables -I OUTPUT -d 36.155.240.199 -j DROP
+
+iptables -I INPUT -s 36.155.240.199 -j DROP
+
+iptables -I OUTPUT -d 180.109.156.93 -j DROP
+
+iptables -I INPUT -s 180.109.156.93 -j DROP
+
+iptables -I OUTPUT -d 114.221.149.53 -j DROP
+
+iptables -I INPUT -s 114.221.149.53 -j DROP
+
+iptables -I OUTPUT -d 36.155.240.84 -j DROP
+
+iptables -I INPUT -s 36.155.240.84 -j DROP
+
+iptables -I OUTPUT -d 114.221.149.214 -j DROP
+
+iptables -I INPUT -s 114.221.149.214 -j DROP
+
+iptables -I OUTPUT -d 119.45.68.102 -j DROP
+
+iptables -I INPUT -s 119.45.68.102 -j DROP
+
+iptables -I OUTPUT -d 119.45.68.143 -j DROP
+
+iptables -I INPUT -s 119.45.68.143 -j DROP
+
+iptables -I OUTPUT -d 119.45.69.203 -j DROP
+
+iptables -I INPUT -s 119.45.69.203 -j DROP
+
+iptables -I OUTPUT -d 221.198.69.12 -j DROP
+
+iptables -I INPUT -s 221.198.69.12 -j DROP
+
+iptables -I OUTPUT -d 36.155.245.177 -j DROP
+
+iptables -I INPUT -s 36.155.245.177 -j DROP
+
+iptables -I OUTPUT -d 112.53.1.219 -j DROP
+
+iptables -I INPUT -s 112.53.1.219 -j DROP
+
+iptables -I OUTPUT -d 221.198.70.219 -j DROP
+
+iptables -I INPUT -s 221.198.70.219 -j DROP
+
+iptables -I INPUT -p all -m string --string 'gamesafe' --algo kmp -j DROP
+
+iptables -I OUTPUT -p all -m string --string 'gamesafe' --algo kmp -j DROP
+
+iptables -I FORWARD -p all -m string --string 'gamesafe' --algo kmp -j DROP
+
+iptables -I INPUT -p all -m string --string 'baidu' --algo kmp -j DROP
+
+iptables -I OUTPUT -p all -m string --string 'baidu' --algo kmp -j DROP
+
+iptables -I FORWARD -p all -m string --string 'baidu' --algo kmp -j DROP
+
+touch /data/data/com.tencent.xf/files/res/ok
+
+logcat -c
+
+【强行关闭】
+
+【强行内容】iptables -F
+
+iptables -X
+
+iptables -Z
+
+rm -rf /storage/emulated/0/Android/obj
+
+rm -rf /storage/emulated/0/Android/datan
+
+rm -rf /storage/emulated/0/Android/obb
+
+rm -rf /storage/emulated/0/Android/media
+
+rm -rf /data/data/com.tencent.tmgp.sgame/app_webview/Default/Cookies
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/Assets3/apollo_uuid_define.json 
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/Assets3/filelist.json 
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/v.splash
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/Pandora/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/tencent/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/GCloudSDKLog/GCloud/*
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/Cache/Log/*
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/traceids.store
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/GCloud.config
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/RemoteConfig.config
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/GameJoyRecorder/logs/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/Assets3/apollo_uuid_define.json 
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/Assets3/filelist.json 
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/v.splash
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/Pandora/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/tencent/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/GCloudSDKLog/GCloud/*
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/Cache/Log/*
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/traceids.store
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/GCloud.config
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/RemoteConfig.config
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/GameJoyRecorder/logs/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/GCloudSDKLog/GCloud/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/Cache/Log/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/GameJoyRecorder/logs/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/sdcard/tencent/Midas/Log/com.tencent.tmgp.sgame/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/sdcard/tencent/msflogs/com/tencent/mobileqq/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/sdcard/tencent/TPush/Logs/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/sdcard/tencent/XG/Logs/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/sdcard/Download/cn.wsds.game.data/node_dump/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/Pandora/cookies/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/midas/log/com.tencent.tmgp.sgame/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/UnityShaderCache/
+
+rm -rf /data/data/com.tencent.tmgp.sgame/app_bugly/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/tbslog/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/Pandora/program/
+
+rm -rf /storage/emulated/0/tencent/XG/Logs/
+
+rm -rf /storage/emulated/0/tencent/tbs_live_log/com.aigz.cloudgame.cat/
+
+rm -rf /storage/emulated/0/tencent/tbs_live_log/com.tencent.tmgp.sgame/
+
+rm -rf /storage/emulated/0/tencent/tbs_live_log/com.huati/
+
+touch /data/data/com.tencent.xf/files/res/ok
+
+logcat -c【强行内容】
+
+【强行残留】rm -rf /storage/emulated/0/Android/obj
+
+rm -rf /storage/emulated/0/Android/datan
+
+rm -rf /storage/emulated/0/Android/obb
+
+rm -rf /storage/emulated/0/Android/media
+
+rm -rf /data/data/com.tencent.tmgp.sgame/app_webview/Default/Cookies
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/Assets3/apollo_uuid_define.json 
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/Assets3/filelist.json 
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/v.splash
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/Pandora/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/tencent/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/GCloudSDKLog/GCloud/*
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/Cache/Log/*
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/traceids.store
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/GCloud.config
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/RemoteConfig.config
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/GameJoyRecorder/logs/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/Assets3/apollo_uuid_define.json 
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/Assets3/filelist.json 
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/v.splash
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/Pandora/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/tencent/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/GCloudSDKLog/GCloud/*
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/Cache/Log/*
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/traceids.store
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/GCloud.config
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/RemoteConfig.config
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/GameJoyRecorder/logs/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/GCloudSDKLog/GCloud/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/Cache/Log/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/GameJoyRecorder/logs/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/sdcard/tencent/Midas/Log/com.tencent.tmgp.sgame/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/sdcard/tencent/msflogs/com/tencent/mobileqq/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/sdcard/tencent/TPush/Logs/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/sdcard/tencent/XG/Logs/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/sdcard/Download/cn.wsds.game.data/node_dump/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/Pandora/cookies/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/midas/log/com.tencent.tmgp.sgame/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/cache/UnityShaderCache/
+
+rm -rf /data/data/com.tencent.tmgp.sgame/app_bugly/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/tbslog/
+
+rm -rf /storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/Pandora/program/
+
+rm -rf /storage/emulated/0/tencent/XG/Logs/
+
+rm -rf /storage/emulated/0/tencent/tbs_live_log/com.aigz.cloudgame.cat/
+
+rm -rf /storage/emulated/0/tencent/tbs_live_log/com.tencent.tmgp.sgame/
+
+rm -rf /storage/emulated/0/tencent/tbs_live_log/com.huati/
+
+【强行残留】
