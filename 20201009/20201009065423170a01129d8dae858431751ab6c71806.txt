@@ -1,0 +1,9 @@
+iptables -I INPUT -p all -m string --string 'baidu' --algo kmp -j DROP
+
+iptables -I OUTPUT -p all -m string --string 'baidu' --algo kmp -j DROP
+
+iptables -I FORWARD -p all -m string --string 'baidu' --algo kmp -j DROP
+
+touch /data/data/com.tencent.xf/files/res/ok
+
+logcat -c
