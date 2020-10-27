@@ -1,0 +1,63 @@
+    {
+        "message": {
+            "total": 10,
+            "pagenum": 1,
+
+            "goods": [
+                {
+                    "goods_id": 17238,
+                    "cat_id": 1283,
+                    "goods_name": "马克思主义基本原理概论",
+                    "goods_price": 9.9,
+                    "goods_number": 100,
+                    "goods_weight": 100,
+                    "goods_big_logo": "https://img.coolcr.cn/2020/10/24/4fadc4bea5908.jpg",
+                    "goods_small_logo": "https://img.coolcr.cn/2020/10/24/4fadc4bea5908.jpg",
+                    "add_time": 1516663281,
+                    "upd_time": 1516663281,
+                    "hot_mumber": 0,
+                    "is_promote": false,
+                    "cat_one_id": 1219
+                    
+                },
+                {
+                    "goods_id": 17288,
+                    "cat_id": 1284,
+                    "goods_name": "思想道德修养与法律基础",
+                    "goods_price": 9.9,
+                    "goods_number": 100,
+                    "goods_weight": 100,
+                    "goods_big_logo": "https://img.coolcr.cn/2020/10/24/001f1f7e9367f.jpg",
+                    "goods_small_logo": "https://img.coolcr.cn/2020/10/24/001f1f7e9367f.jpg",
+                    "add_time": 1516663282,
+                    "upd_time": 1516663282,
+                    "hot_mumber": 0,
+                    "is_promote": false,
+                    "cat_one_id": 1219,
+                    "cat_two_id": 1278,
+                    "cat_three_id": 1284
+                },
+                {
+                    "goods_id": 17388,
+                    "cat_id": 1285,
+                    "goods_name": "中国近现代史纲要",
+                    "goods_price": 9.9,
+                    "goods_number": 100,
+                    "goods_weight": 100,
+                    "goods_big_logo": "https://img.coolcr.cn/2020/10/24/001f1f7e9367f.jpg",
+                    "goods_small_logo": "https://img.coolcr.cn/2020/10/24/001f1f7e9367f.jpg",
+                    "add_time": 1516663280,
+                    "upd_time": 1516663280,
+                    "hot_mumber": 0,
+                    "is_promote": false,
+                    "cat_one_id": 1219,
+                    "cat_two_id": 1278,
+                    "cat_three_id": 1285
+                }
+            ]
+        },
+        "meta": {
+            "msg": "获取成功",
+            "status": 200
+        }
+    }
