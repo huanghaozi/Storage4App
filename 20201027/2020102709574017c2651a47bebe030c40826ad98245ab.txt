@@ -1,0 +1,487 @@
+{
+  "message": [
+    {
+      "cat_id": 1219,
+      "cat_name": "思政类",
+      "cat_pid": 0,
+      "cat_level": 0,
+      "cat_deleted": false,
+      "cat_icon": "/full/none.jpg",
+      "children": [
+      
+        {
+          "cat_id": 1278,
+          "cat_name": "思政类",
+          "cat_pid": 1219,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 1283,
+              "cat_name": "马克思主义基本原理概论",
+              "cat_pid": 1278,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/24/4fadc4bea5908.jpg"
+            },
+            {
+              "cat_id": 1284,
+              "cat_name": "思想道德修养与法律基础",
+              "cat_pid": 1278,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/24/001f1f7e9367f.jpg"
+            },
+            {
+              "cat_id": 1285,
+              "cat_name": "中国近现代史纲要",
+              "cat_pid": 1278,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/27/cf66a3f8a8b68.jpg"
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "cat_id": 1292,
+      "cat_name": "文学类",
+      "cat_pid": 0,
+      "cat_level": 0,
+      "cat_deleted": false,
+      "cat_icon": "/full/none.jpg",
+      "children": [
+        {
+          "cat_id": 1309,
+          "cat_name": "科幻类",
+          "cat_pid": 1292,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 1311,
+              "cat_name": "三体",
+              "cat_pid": 1309,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/27/f41eb57c160a1.png"
+            },
+            {
+              "cat_id": 1312,
+              "cat_name": "十三层空间",
+              "cat_pid": 1309,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/27/5185b9bee23c4.png"
+            },
+            {
+              "cat_id": 1314,
+              "cat_name": "流浪地球",
+              "cat_pid": 1309,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/27/5185b9bee23c4.png"
+            }
+          ]
+        },
+        {
+          "cat_id": 1313,
+          "cat_name": "中国近现代小说",
+          "cat_pid": 1292,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 1323,
+              "cat_name": "在细雨中呐喊",
+              "cat_pid": 1313,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/27/dc2180ce241d0.png"
+            },
+            {
+              "cat_id": 1324,
+              "cat_name": "呼兰河传",
+              "cat_pid": 1313,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/27/edd09fd0134dd.png"
+            },
+            {
+              "cat_id": 1327,
+              "cat_name": "妈阁是座城",
+              "cat_pid": 1313,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/27/9086e02b62385.png"
+            }
+          ]
+        },
+        {
+          "cat_id": 1325,
+          "cat_name": "情感",
+          "cat_pid": 1292,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 1332,
+              "cat_name": "追风筝的人",
+              "cat_pid": 1325,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/27/d8a05c49e14a8.png"
+            },
+            {
+              "cat_id": 1333,
+              "cat_name": "八月未央",
+              "cat_pid": 1325,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/27/385ff612333bd.png"
+            },
+            {
+              "cat_id": 1335,
+              "cat_name": "一条狗的使命",
+              "cat_pid": 1325,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/27/6f647ab8cdbfc.png"
+            }
+          ]
+        }    
+      ]
+    },
+    {
+      "cat_id": 1330,
+      "cat_name": "外语类",
+      "cat_pid": 0,
+      "cat_level": 0,
+      "cat_deleted": false,
+      "cat_icon": "/full/none.jpg",
+      "children": [
+        {
+          "cat_id": 1349,
+          "cat_name": "教科书",
+          "cat_pid": 1330,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 1355,
+              "cat_name": "大学英语（第三版精读）",
+              "cat_pid": 1349,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/27/1f5786ad82f94.png"
+            },
+            {
+              "cat_id": 1356,
+              "cat_name": "大学英语新视听2",
+              "cat_pid": 1349,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/27/43af2bc817173.png"
+            },
+            {
+              "cat_id": 1357,
+              "cat_name": "从零快学日语入门",
+              "cat_pid": 1349,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/27/e21e5aa8db5a9.png"
+            }
+          ]
+        },
+        {
+          "cat_id": 1351,
+          "cat_name": "外国小说",
+          "cat_pid": 1330,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 1359,
+              "cat_name": "麦田里的守望者",
+              "cat_pid": 1351,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/27/90c107e1df2fb.png"
+            },
+            {
+              "cat_id": 1360,
+              "cat_name": "毕业 ",
+              "cat_pid": 1351,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/27/d2fc73e178927.png"
+            },
+            {
+              "cat_id": 1361,
+              "cat_name": "人间失格",
+              "cat_pid": 1351,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/27/5501faf5cdcb7.png"
+            }   
+          ]
+        }
+      ]
+    },
+    {
+      "cat_id": 1372,
+      "cat_name": "专业类",
+      "cat_pid": 0,
+      "cat_level": 0,
+      "cat_deleted": false,
+      "cat_icon": "/full/none.jpg",
+      "children": [
+        {
+          "cat_id": 1374,
+          "cat_name": "专业类",
+          "cat_pid": 1372,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 1384,
+              "cat_name": "经济法",
+              "cat_pid": 1374,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/27/b24d28466aed3.png"
+            },
+            {
+              "cat_id": 1385,
+              "cat_name": "数据结构（C语言）",
+              "cat_pid": 1374,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/27/e339e61ab62a8.png"
+            },
+            {
+              "cat_id": 1386,
+              "cat_name": "国际商法",
+              "cat_pid": 1374,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/27/f5ba36b1116ab.png"
+            }    
+          ]
+        }     
+      ]
+    },
+    {
+      "cat_id": 1402,
+      "cat_name": "公共基础类",
+      "cat_pid": 0,
+      "cat_level": 0,
+      "cat_deleted": false,
+      "cat_icon": "/full/none.jpg",
+      "children": [
+        {
+          "cat_id": 1417,
+          "cat_name": "数学类",
+          "cat_pid": 1402,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 1419,
+              "cat_name": "高等数学",
+              "cat_pid": 1417,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/27/c651893b68945.png"
+            },
+            {
+              "cat_id": 1420,
+              "cat_name": "大学生职业生涯规划",
+              "cat_pid": 1417,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/27/e6ab1e2e33cf4.jpg"
+            },
+            {
+              "cat_id": 1423,
+              "cat_name": "大学英语视听说",
+              "cat_pid": 1417,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/27/b88a3653d5000.jpg"
+            }        
+          ]
+        }
+       
+      ]
+    },
+    {
+      "cat_id": 1441,
+      "cat_name": "小商品",
+      "cat_pid": 0,
+      "cat_level": 0,
+      "cat_deleted": false,
+      "cat_icon": "/full/none.jpg",
+      "children": [
+        {
+          "cat_id": 1444,
+          "cat_name": "收纳",
+          "cat_pid": 1441,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 1457,
+              "cat_name": "鞋柜",
+              "cat_pid": 1444,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/41b1c41ebbab7.png"
+            },
+            {
+              "cat_id": 1460,
+              "cat_name": "床头架",
+              "cat_pid": 1444,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/2011761956033.png"
+            },
+            {
+              "cat_id": 1461,
+              "cat_name": "挂篮",
+              "cat_pid": 1444,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/b6c04613f758d.png"
+            },
+            {
+              "cat_id": 1462,
+              "cat_name": "墙挂袋",
+              "cat_pid": 1444,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/69b814330ec49.png"
+            },
+            {
+              "cat_id": 1463,
+              "cat_name": "桌上架",
+              "cat_pid": 1444,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/3f4bbb29796b1.png"
+            }
+            
+          ]
+        },
+        {
+          "cat_id": 1458,
+          "cat_name": "生活百货",
+          "cat_pid": 1441,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 1466,
+              "cat_name": "镜子",
+              "cat_pid": 1458,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/544c5a2cff78f.png"
+            },
+            {
+              "cat_id": 1467,
+              "cat_name": "笔筒",
+              "cat_pid": 1458,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/f6e74c52e1fd9.png"
+            },
+            {
+              "cat_id": 1468,
+              "cat_name": "小桌子",
+              "cat_pid": 1458,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/a36643119b671.png"
+            },
+            {
+              "cat_id": 1469,
+              "cat_name": "挂钩",
+              "cat_pid": 1458,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/29ef786bd50ea.png"
+            }
+          ]
+        },
+        {
+          "cat_id": 1459,
+          "cat_name": "运动器材",
+          "cat_pid": 1441,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 1471,
+              "cat_name": "羽毛球拍",
+              "cat_pid": 1459,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/59e5f50a1d9e4.png"
+            },
+            {
+              "cat_id": 1472,
+              "cat_name": "哑铃",
+              "cat_pid": 1459,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/f9f5e272a6509.png"
+            },
+            {
+              "cat_id": 1473,
+              "cat_name": "足球",
+              "cat_pid": 1459,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/2bc23fe194167.png"
+            },
+            {
+              "cat_id": 1474,
+              "cat_name": "乒乓球拍",
+              "cat_pid": 1459,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/858d79361f1c6.png"
+            },
+            {
+              "cat_id": 1475,
+              "cat_name": "篮球",
+              "cat_pid": 1459,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/2c2ecbdb1bda9.png"
+            }
+            
+          ]
+        }
+      ]
+    }
+    
+  ],
+  "meta": {
+    "msg": "获取成功",
+    "status": 200
+  }
+}
