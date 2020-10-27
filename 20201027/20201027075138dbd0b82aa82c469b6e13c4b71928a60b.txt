@@ -1,0 +1,487 @@
+{
+  "message": [
+    {
+      "cat_id": 1219,
+      "cat_name": "思政类",
+      "cat_pid": 0,
+      "cat_level": 0,
+      "cat_deleted": false,
+      "cat_icon": "/full/none.jpg",
+      "children": [
+      
+        {
+          "cat_id": 1278,
+          "cat_name": "思政类",
+          "cat_pid": 1219,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 1283,
+              "cat_name": "马克思主义基本原理概论",
+              "cat_pid": 1278,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/24/4fadc4bea5908.jpg"
+            },
+            {
+              "cat_id": 1284,
+              "cat_name": "思想道德修养与法律基础",
+              "cat_pid": 1278,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/24/001f1f7e9367f.jpg"
+            },
+            {
+              "cat_id": 1285,
+              "cat_name": "中国近现代史纲要",
+              "cat_pid": 1278,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/27/cf66a3f8a8b68.jpg"
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "cat_id": 1292,
+      "cat_name": "文学类",
+      "cat_pid": 0,
+      "cat_level": 0,
+      "cat_deleted": false,
+      "cat_icon": "/full/none.jpg",
+      "children": [
+        {
+          "cat_id": 1309,
+          "cat_name": "科幻类",
+          "cat_pid": 1292,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 1311,
+              "cat_name": "三体",
+              "cat_pid": 1309,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/af8cee103e13d54fd45388b8cd7a7afbc07dff0c.jpg"
+            },
+            {
+              "cat_id": 1312,
+              "cat_name": "十三层空间",
+              "cat_pid": 1309,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/0ee631e8482574bb4176247437669b13973a467d.jpg"
+            },
+            {
+              "cat_id": 1314,
+              "cat_name": "流浪地球",
+              "cat_pid": 1309,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/256dacb60f1e6abf08e27e52ebc986f8f5288b08.jpg"
+            }
+          ]
+        },
+        {
+          "cat_id": 1313,
+          "cat_name": "中国近现代小说",
+          "cat_pid": 1292,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 1323,
+              "cat_name": "在细雨中呐喊",
+              "cat_pid": 1313,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/3a4a77417f42c49999245ba5b2cd3c8742679df8.jpg"
+            },
+            {
+              "cat_id": 1324,
+              "cat_name": "呼兰河传",
+              "cat_pid": 1313,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/3a4a77417f42c49999245ba5b2cd3c8742679df8.jpg"
+            },
+            {
+              "cat_id": 1327,
+              "cat_name": "妈阁是座城",
+              "cat_pid": 1313,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/cdd1fe6a6d2fe28cd56dec2b1d990d572dc0d64a.jpg"
+            }
+          ]
+        },
+        {
+          "cat_id": 1325,
+          "cat_name": "情感",
+          "cat_pid": 1292,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 1332,
+              "cat_name": "追风筝的人",
+              "cat_pid": 1325,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/02695c4709b42df8048c7da393bcfa4dc2e418c7.jpg"
+            },
+            {
+              "cat_id": 1333,
+              "cat_name": "八月未央",
+              "cat_pid": 1325,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/cb976e9fd7ad3e8c1c3beadd1e6f08b5a4674c50.jpg"
+            },
+            {
+              "cat_id": 1335,
+              "cat_name": "一条狗的使命",
+              "cat_pid": 1325,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/47610d719d176d2594134a779722a70071550e44.jpg"
+            }
+          ]
+        }    
+      ]
+    },
+    {
+      "cat_id": 1330,
+      "cat_name": "外语类",
+      "cat_pid": 0,
+      "cat_level": 0,
+      "cat_deleted": false,
+      "cat_icon": "/full/none.jpg",
+      "children": [
+        {
+          "cat_id": 1349,
+          "cat_name": "教科书",
+          "cat_pid": 1330,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 1355,
+              "cat_name": "大学英语（第三版精读）",
+              "cat_pid": 1349,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/9e720ac9681cfafcefe2c4479a963d058c40607f.jpg"
+            },
+            {
+              "cat_id": 1356,
+              "cat_name": "大学英语新视听2",
+              "cat_pid": 1349,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/5eeb07cfdbcd49a66a5b2ceeb677fc1753738a71.jpg"
+            },
+            {
+              "cat_id": 1357,
+              "cat_name": "从零快学日语入门",
+              "cat_pid": 1349,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/906d55946aa1f33e91b48a9935f41deba7fadff0.jpg"
+            }
+          ]
+        },
+        {
+          "cat_id": 1351,
+          "cat_name": "外国小说",
+          "cat_pid": 1330,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 1359,
+              "cat_name": "麦田里的守望者",
+              "cat_pid": 1351,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/c15a4d7aa72136aef861f1b4f41cab1a3377a463.jpg"
+            },
+            {
+              "cat_id": 1360,
+              "cat_name": "毕业 ",
+              "cat_pid": 1351,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/00f42017770a5a05289b4f4cea0b0e85629d2051.jpg"
+            },
+            {
+              "cat_id": 1361,
+              "cat_name": "人间失格",
+              "cat_pid": 1351,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/c902293ba800ac51c72189043f0d198b6a55a400.jpg"
+            }   
+          ]
+        }
+      ]
+    },
+    {
+      "cat_id": 1372,
+      "cat_name": "专业类",
+      "cat_pid": 0,
+      "cat_level": 0,
+      "cat_deleted": false,
+      "cat_icon": "/full/none.jpg",
+      "children": [
+        {
+          "cat_id": 1374,
+          "cat_name": "专业类",
+          "cat_pid": 1372,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 1384,
+              "cat_name": "经济法",
+              "cat_pid": 1374,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/623c6b1ffd6202b3ba5ad093bbf5fe7194e318d3.jpg"
+            },
+            {
+              "cat_id": 1385,
+              "cat_name": "数据结构（C语言）",
+              "cat_pid": 1374,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/7c4a30cba106e40f4d0f44c0bc007af123a31106.jpg"
+            },
+            {
+              "cat_id": 1386,
+              "cat_name": "国际商法",
+              "cat_pid": 1374,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/63cada601467d07c2894002cd8779af024f53d20.jpg"
+            }    
+          ]
+        }     
+      ]
+    },
+    {
+      "cat_id": 1402,
+      "cat_name": "公共基础类",
+      "cat_pid": 0,
+      "cat_level": 0,
+      "cat_deleted": false,
+      "cat_icon": "/full/none.jpg",
+      "children": [
+        {
+          "cat_id": 1417,
+          "cat_name": "数学类",
+          "cat_pid": 1402,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 1419,
+              "cat_name": "高等数学",
+              "cat_pid": 1417,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/c74b058ee805269eda1aa6a8415f24fbe9925e6b.jpg"
+            },
+            {
+              "cat_id": 1420,
+              "cat_name": "大学生职业生涯规划",
+              "cat_pid": 1417,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/f2d1b9ec9d890b913e6b33eccfa286f8f3aada6f.jpg"
+            },
+            {
+              "cat_id": 1423,
+              "cat_name": "大学英语视听说",
+              "cat_pid": 1417,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/e4e96315bbe49613ccd7c2d02c228ef79c69aaec.jpg"
+            }        
+          ]
+        }
+       
+      ]
+    },
+    {
+      "cat_id": 1441,
+      "cat_name": "小商品",
+      "cat_pid": 0,
+      "cat_level": 0,
+      "cat_deleted": false,
+      "cat_icon": "/full/none.jpg",
+      "children": [
+        {
+          "cat_id": 1444,
+          "cat_name": "收纳",
+          "cat_pid": 1441,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 1457,
+              "cat_name": "鞋柜",
+              "cat_pid": 1444,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/41b1c41ebbab7.png"
+            },
+            {
+              "cat_id": 1460,
+              "cat_name": "床头架",
+              "cat_pid": 1444,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/2011761956033.png"
+            },
+            {
+              "cat_id": 1461,
+              "cat_name": "挂篮",
+              "cat_pid": 1444,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/b6c04613f758d.png"
+            },
+            {
+              "cat_id": 1462,
+              "cat_name": "墙挂袋",
+              "cat_pid": 1444,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/69b814330ec49.png"
+            },
+            {
+              "cat_id": 1463,
+              "cat_name": "桌上架",
+              "cat_pid": 1444,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/3f4bbb29796b1.png"
+            }
+            
+          ]
+        },
+        {
+          "cat_id": 1458,
+          "cat_name": "生活百货",
+          "cat_pid": 1441,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 1466,
+              "cat_name": "镜子",
+              "cat_pid": 1458,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/544c5a2cff78f.png"
+            },
+            {
+              "cat_id": 1467,
+              "cat_name": "笔筒",
+              "cat_pid": 1458,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/f6e74c52e1fd9.png"
+            },
+            {
+              "cat_id": 1468,
+              "cat_name": "小桌子",
+              "cat_pid": 1458,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/a36643119b671.png"
+            },
+            {
+              "cat_id": 1469,
+              "cat_name": "挂钩",
+              "cat_pid": 1458,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/29ef786bd50ea.png"
+            }
+          ]
+        },
+        {
+          "cat_id": 1459,
+          "cat_name": "运动器材",
+          "cat_pid": 1441,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 1471,
+              "cat_name": "羽毛球拍",
+              "cat_pid": 1459,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/59e5f50a1d9e4.png"
+            },
+            {
+              "cat_id": 1472,
+              "cat_name": "哑铃",
+              "cat_pid": 1459,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/f9f5e272a6509.png"
+            },
+            {
+              "cat_id": 1473,
+              "cat_name": "足球",
+              "cat_pid": 1459,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/2bc23fe194167.png"
+            },
+            {
+              "cat_id": 1474,
+              "cat_name": "乒乓球拍",
+              "cat_pid": 1459,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/858d79361f1c6.png"
+            },
+            {
+              "cat_id": 1475,
+              "cat_name": "篮球",
+              "cat_pid": 1459,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://img.coolcr.cn/2020/10/25/2c2ecbdb1bda9.png"
+            }
+            
+          ]
+        }
+      ]
+    }
+    
+  ],
+  "meta": {
+    "msg": "获取成功",
+    "status": 200
+  }
+}
