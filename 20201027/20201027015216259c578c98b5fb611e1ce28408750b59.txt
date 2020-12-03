@@ -1,0 +1,94 @@
+{
+  "message": [
+    {
+      "floor_title": {
+        "name": "二手书",
+        "image_src": "https://img.coolcr.cn/2020/10/27/13d5d0123e8bf.png"
+      },
+      "product_list": [
+        {
+          "name": "思政类",
+          "image_src": "https://img.coolcr.cn/2020/10/24/4fadc4bea5908.jpg",
+          "image_width": "232",
+          "open_type": "navigate",
+          "navigator_url": "/pages/category/index"
+        },
+        {
+          "name": "公共基础类",
+          "image_src": "https://img.coolcr.cn/2020/10/27/7a2ba516454c9.jpg",
+          "image_width": "233",
+          "open_type": "navigate",
+          "navigator_url": ""/pages/category/index"
+        },
+        {
+          "name": "文学类",
+          "image_src": "https://img.coolcr.cn/2020/10/27/69f1dc8a24b7f.jpg",
+          "image_width": "233",
+          "open_type": "navigate",
+          "navigator_url": ""/pages/category/index"
+        },
+        {
+          "name": "外语类",
+          "image_src": "https://img.coolcr.cn/2020/10/24/263f35e10531b.jpg",
+          "image_width": "233",
+          "open_type": "navigate",
+          "navigator_url": ""/pages/category/index"
+        },
+        {
+          "name": "相关专业类",
+          "image_src": "https://img.coolcr.cn/2020/10/24/e5ffcaad4507b.jpg",
+          "image_width": "233",
+          "open_type": "navigate",
+          "navigator_url": ""/pages/category/index"
+        }
+      ]
+    },
+    {
+      "floor_title": {
+        "name": "小商品",
+        "image_src": "https://img.coolcr.cn/2020/10/27/06b8bbc94a793.png"
+      },
+      "product_list": [
+        {
+          "name": "勇往直前",
+          "image_src": "https://api-hmugo-web.itheima.net/pyg/pic_floor02_1@2x.png",
+          "image_width": "232",
+          "open_type": "navigate",
+          "navigator_url": "/pages/goods_list?query=户外"
+        },
+        {
+          "name": "户外登山包",
+          "image_src": "https://api-hmugo-web.itheima.net/pyg/pic_floor02_2@2x.png",
+          "image_width": "273",
+          "open_type": "navigate",
+          "navigator_url": "/pages/goods_list?query=登山包"
+        },
+        {
+          "name": "超强手套",
+          "image_src": "https://api-hmugo-web.itheima.net/pyg/pic_floor02_3@2x.png",
+          "image_width": "193",
+          "open_type": "navigate",
+          "navigator_url": "/pages/goods_list?query=手套"
+        },
+        {
+          "name": "户外运动鞋",
+          "image_src": "https://api-hmugo-web.itheima.net/pyg/pic_floor02_4@2x.png",
+          "image_width": "193",
+          "open_type": "navigate",
+          "navigator_url": "/pages/goods_list?query=运动鞋"
+        },
+        {
+          "name": "冲锋衣系列",
+          "image_src": "https://api-hmugo-web.itheima.net/pyg/pic_floor02_5@2x.png",
+          "image_width": "273",
+          "open_type": "navigate",
+          "navigator_url": "/pages/goods_list?query=冲锋衣"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "msg": "获取成功",
+    "status": 200
+  }
+}
